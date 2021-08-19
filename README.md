@@ -9,9 +9,9 @@ This repo is the a c++ codebase of the Joint Detection and Embedding (JDE) model
 * GPU-Nvidia (GTX-1080/RTX-2080/RTX-2080Ti)
 * IDE-VS2017/VS2019
 * cuda == 10.1, cudnn == 7.6
-* LibTorch-1.4.0 [Baidu](https://pan.baidu.com/s/1aSKPJf9DmXGlEujfm93BEA) PWD: gr3t
+* LibTorch-1.4.0 [Baidu](https://pan.baidu.com/s/1aSKPJf9DmXGlEujfm93BEA) (PWD: gr3t)
 * OpenCV == 4.2.0
-* eigen-3.3.9 [Baidu](https://pan.baidu.com/s/19w32kjOIwEGxLNYMZWTKWg) PWD: ziiw
+* eigen-3.3.9 [Baidu](https://pan.baidu.com/s/19w32kjOIwEGxLNYMZWTKWg) (PWD: ziiw)
 
 ## Quick Start
 1. Download JDE weights from [[Google]](https://drive.google.com/file/d/1sca65sHMnxY7YJ89FJ6Dg3S3yAjbLdMz/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1cCulbPNneIXOpRRjrTgJ4g).
