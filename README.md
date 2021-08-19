@@ -22,6 +22,11 @@ python cvt2jit.py
 3. Compile source code by VS2017/2019.
 4. Run JDETracker.
 
+## Performance
+|Model| MOTA | IDF1 | IDS | FP | FN |
+|-----|------|------|-----|----|----|
+|JDE-576x320| 63.7|	63.3|	1307|	6657|	32794|
+
 ## Video Demo
 <img src="assets/MOT16-03.gif" width="400"/>   <img src="assets/MOT16-14.gif" width="400"/>
 
