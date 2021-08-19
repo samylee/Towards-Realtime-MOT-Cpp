@@ -23,9 +23,9 @@ python cvt2jit.py (based on pytorch-1.4.0)
 4. Run JDETracker.
 
 ## Performance
-|Model| MOTA | IDF1 | IDS | FP | FN |
-|-----|------|------|-----|----|----|
-|JDE-576x320| 63.7|	63.3|	1307|	6657|	32794|
+|Model| MOTA | IDF1 | IDS | FP | FN | FPS @Hardware |
+|-----|------|------|-----|----|----|----|
+|JDE-576x320| 63.7|	63.3|	1307|	6657|	32794| 33.5 @i7-9700, RTX-2080ti|
 
 ## Video Demo
 <img src="assets/MOT16-03.gif" width="400"/>   <img src="assets/MOT16-14.gif" width="400"/>
