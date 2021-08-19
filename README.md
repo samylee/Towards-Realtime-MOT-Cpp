@@ -17,7 +17,7 @@ This repo is the a c++ codebase of the Joint Detection and Embedding (JDE) model
 1. Download JDE weights from [[Google]](https://drive.google.com/file/d/1sca65sHMnxY7YJ89FJ6Dg3S3yAjbLdMz/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1cCulbPNneIXOpRRjrTgJ4g).
 2. Convert the pytorch model to a jit model based on [Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT), or download [[jit_model]](https://pan.baidu.com/s/1d8SEvOYgnwCu4WDjRxev1g) (PWD: tupu) directly. 
 ```
-python cvt2jit.py
+python cvt2jit.py (pytorch-1.4.0)
 ```
 3. Compile source code by VS2017/2019.
 4. Run JDETracker.
